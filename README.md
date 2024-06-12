@@ -101,7 +101,7 @@ class HomeController extends Controller
         return $this->view('welcome');
     }
 }
-
+```
 ### Views
 <!-- resources/views/welcome.blade.php -->
 <!DOCTYPE html>
