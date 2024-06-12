@@ -117,6 +117,7 @@ class HomeController extends Controller
 </html>
 
 ### Folder Structure
+```
 nova/
 ├── app/
 │   ├── Core/
@@ -163,6 +164,6 @@ nova/
 ├── index.php
 ├── package.json
 └── webpack.mix.js
-
+```
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
